@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    margin-bottom: 20px; text-align: center; width: 100%; 
+}
+
+.container {
+    width: 100%; display: flex; flex-wrap: wrap; justify-content: center;
+}
+
+.content {
+    flex-basis: 32%;
+}
+
+.card {
+    background-color: lightblue; margin-bottom: 20px; margin-left: 5px; margin-right: 5px; font-size: 12px; 
+}
+
+.card-header {
+    background-color: darkblue; color: white; font-weight: bold; width: 100%; 
+}
+
+.card-title-1 {
+    padding: 4px; text-align: center; font-family: 'Lobster', cursive; font-size: 30px;
+}
+
+.card-title-2 {
+    padding: 4px; text-align: center; font-family: 'PT Mono', monospace; font-size: 20px;
+}
+
+.content-image {
+    width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 4px; 
+}
+
+.button-content {
+    flex-basis: 100%;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+.menu-button {
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: darkblue;
+    text-decoration: none;
+    margin-bottom: 5px;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    text-decoration: none;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.card-2 {
+    background-color: lightyellow; margin-bottom: 20px; margin-left: 5px; margin-right: 5px; font-size: 12px; 
+}
+
+.card-header-2 {
+    background-color: rgb(221, 221, 5); color: white; font-weight: bold; width: 100%; 
+}
